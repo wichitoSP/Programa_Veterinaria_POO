@@ -7,5 +7,5 @@ public class ModelVeterinario {
     private String especialidad;
     private String telefono;
     private String horarioTrabajo;
-    
+
 }

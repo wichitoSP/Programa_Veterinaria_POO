@@ -11,5 +11,5 @@ public class ModelConsulta {
     private String diagnostico;
     private String tratamiento;
     private  double costo;
-    
+
 }

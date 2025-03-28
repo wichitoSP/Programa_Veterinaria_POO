@@ -9,6 +9,9 @@ public class ModelCita {
     private  ModelDueño dueño;
     private  ModelVeterinario veterinario;
     private String motivo;
+    private String estado;
+
+
 
     public ModelCita(int idCita, Date fechaHora, ModelMascota mascota, ModelDueño dueño, ModelVeterinario veterinario, String motivo){
         this.idCita = idCita;
@@ -17,7 +20,7 @@ public class ModelCita {
         this.dueño = dueño;
         this.veterinario = veterinario;
         this.motivo = motivo;
-        
+
 
     }
 
@@ -69,6 +72,11 @@ public class ModelCita {
         this.motivo = motivo;
     }
 
+    public String getEstado() {
+        return estado;
+    }
 
-
+    public void setEstado(String estado) {
+        this.estado = estado;
+    }
 }

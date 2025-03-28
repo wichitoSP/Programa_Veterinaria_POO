@@ -10,4 +10,15 @@ public class ModelCita {
     private  ModelVeterinario veterinario;
     private String motivo;
 
+    public ModelCita(int idCita,Date fechaHora,ModelMascota mascota,ModelDueño dueño, ModelVeterinario veterinario,String motivo){
+        this.idCita = idCita;
+        this.fechaHora = fechaHora;
+        this.mascota = mascota;
+        this.dueño = dueño;
+        this.veterinario = veterinario;
+        this.motivo = motivo;
+
+
+    }
+
 }

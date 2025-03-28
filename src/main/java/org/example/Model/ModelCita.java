@@ -9,5 +9,5 @@ public class ModelCita {
     private  ModelDueño dueño;
     private  ModelVeterinario veterinario;
     private String motivo;
-    
+
 }

@@ -23,7 +23,8 @@ public class ModelMascota {
         this.peso = peso;
         this.sexo = sexo;
         this.dueño = dueño;
-        
+
+
 
     }
 

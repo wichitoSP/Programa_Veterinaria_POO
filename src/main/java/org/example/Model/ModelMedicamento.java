@@ -15,7 +15,7 @@ public class ModelMedicamento {
         this.dosis = dosis;
         this.precio = precio;
         this.stock = stock;
-        
+
     }
 
     public int getId() {

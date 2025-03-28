@@ -16,7 +16,7 @@ public class ModelDueño {
         this.telefono = telefono;
         this.email = email;
 
-        
+
     }
 
 }

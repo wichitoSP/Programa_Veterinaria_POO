@@ -15,7 +15,7 @@ public class ModelVeterinario {
         this.especialidad = especialidad;
         this.telefono = telefono;
         this.horarioTrabajo = horarioTrabajo;
-        
+
 
     }
 

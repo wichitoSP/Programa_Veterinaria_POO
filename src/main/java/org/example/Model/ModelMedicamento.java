@@ -8,4 +8,16 @@ public class ModelMedicamento {
     private double precio;
     private int stock;
 
+    public ModelMedicamento(int id,String nombre, String descripcion, String dosis, double precio,int stock){
+        this.id = id;
+        this.nombre = nombre;
+        this.descripcion = descripcion;
+        this.dosis = dosis;
+        this.precio = precio;
+        this.stock = stock;
+
+
+
+    }
+
 }

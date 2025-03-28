@@ -7,6 +7,6 @@ public class ModelDueño {
     private String direccion;
     private String telefono;
     private String email;
-    
+
 
 }

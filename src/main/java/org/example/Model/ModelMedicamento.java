@@ -7,5 +7,5 @@ public class ModelMedicamento {
     private String dosis;
     private double precio;
     private int stock;
-    
+
 }

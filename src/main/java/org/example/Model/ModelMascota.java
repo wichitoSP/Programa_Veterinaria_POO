@@ -10,5 +10,5 @@ public class ModelMascota {
     private Date fechaNacimiento;
     private double peso;
     private char sexo;
-    
+
 }

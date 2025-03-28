@@ -21,7 +21,8 @@ public class ModelConsulta {
         this.diagnostico = diagnostico;
         this.tratamiento = tratamiento;
         this.costo = costo;
-        
+
+
     }
 
 }
